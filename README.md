@@ -32,135 +32,49 @@ Publishing CMS is broader than a conventional website CMS. Modern publishing pla
 
 ### Enterprise Publishing CMS
 
-* **WordPress VIP**
-
-  * Enterprise managed WordPress platform focused on high-scale publishing, content operations, security, governance, performance, and omnichannel delivery.
-  * Particularly relevant to large publishers, media organizations, enterprises, and high-traffic digital properties.
-
-* **Contentful**
-
-  * API-first composable content platform for structured content and omnichannel publishing.
-  * Strong ecosystem of APIs, integrations, localization, editorial workflows, and enterprise content operations.
-
-* **Contentstack**
-
-  * Enterprise headless CMS focused on structured content, omnichannel publishing, workflows, localization, governance, and composable digital experiences.
-
-* **Agility CMS**
-
-  * Headless CMS combining structured content management with page management, visual editing, digital asset management, and omnichannel delivery.
-
-* **Contentstack**
-
-  * Enterprise-grade headless publishing platform supporting complex content models, localization, workflows, and multi-channel delivery.
-
-* **Brightspot**
-
-  * Enterprise CMS and digital experience platform used by publishers, media organizations, enterprises, and large content operations.
-  * Supports editorial workflows, content modeling, personalization, digital asset management, and omnichannel delivery.
+| Product | Description | Starting Price | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **WordPress VIP** | Enterprise managed WordPress platform focused on high-scale publishing, content operations, security, governance, performance, and omnichannel delivery. Particularly relevant to large publishers, media organizations, enterprises, and high-traffic digital properties. | ~$2,000/mo (approx. $25,000/yr custom quote) | No free tier or trial (custom demo only) |
+| **Contentful** | API-first composable content platform for structured content and omnichannel publishing. Strong ecosystem of APIs, integrations, localization, editorial workflows, and enterprise content operations. | $300/mo (Team plan) | **Free forever**: 1 space, 10 users, 25 content models, 2 locales, 100,000 API calls/mo, 50 GB bandwidth/mo |
+| **Contentstack** | Enterprise-grade headless CMS and DXP platform supporting complex content models, localization, workflows, governance, and omnichannel digital experiences. | ~$1,666/mo (approx. $20,000/yr custom quote) | **Free developer tier**: Free Explorer account for solo developers/learning + 14-day free trial |
+| **Agility CMS** | Headless CMS combining structured content management with page management, visual editing, digital asset management, and omnichannel delivery. | $699/mo (Essentials plan) | **Free forever POC plan**: 5 users, 25,000 entries, unlimited API requests & content models |
+| **Brightspot** | Enterprise CMS and digital experience platform used by publishers, media organizations, and large content operations. Supports editorial workflows, content modeling, personalization, DAM, and omnichannel delivery. | Custom quote | **Free trial**: 30-day free trial upon request (no permanent free tier) |
 
 ### Headless Publishing Platforms
 
-* **Storyblok**
-
-  * Headless CMS with a strong visual-editor experience.
-  * Combines structured content, reusable components, visual editing, workflows, localization, APIs, and omnichannel delivery.
-  * Particularly attractive to marketing-led publishing teams.
-
-* **Prismic**
-
-  * Headless CMS centered around its slice-based content architecture.
-  * Strong fit for marketing sites, editorial publishing, reusable page components, localization, and modern JavaScript frameworks.
-
-* **Sanity**
-
-  * Structured-content platform with real-time collaboration, highly customizable content modeling, APIs, Portable Text, and a developer-centric Studio.
-  * Strong fit for complex publishing applications and custom editorial experiences.
-
-* **Hygraph**
-
-  * GraphQL-native headless CMS supporting structured content, content federation, localization, editorial workflows, and omnichannel publishing.
-  * Particularly useful when content needs to combine multiple external sources through a unified content API.
-
-* **ButterCMS**
-
-  * Hosted headless CMS emphasizing rapid integration, blogging, marketing content, page management, and publishing APIs.
-  * Designed to reduce CMS infrastructure requirements for development teams.
-
-* **Strapi Cloud**
-
-  * Hosted version of the Strapi ecosystem.
-  * Provides managed infrastructure while retaining the developer-oriented Strapi content modeling and API approach.
-
-* **DatoCMS**
-
-  * API-first headless CMS focused on structured content, editorial workflows, media, localization, and high-performance publishing.
-
-* **Kontent.ai**
-
-  * Enterprise headless CMS focused on structured content, content operations, collaboration, localization, and omnichannel publishing.
-
-* **Storyblok**
-
-  * Visual-editor-first headless CMS with component-based content modeling and API delivery.
+| Product | Description | Starting Price | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **Storyblok** | Headless CMS with a strong visual-editor experience. Combines structured content, reusable components, visual editing, workflows, localization, APIs, and omnichannel delivery. Particularly attractive to marketing-led publishing teams. | $99/mo per space (Growth plan) | **Free forever (Starter)**: 1 space, 1 user seat, 3 publishes/day limit, 1,000,000 API requests/mo, unlimited content entries |
+| **Prismic** | Headless CMS centered around its slice-based content architecture. Strong fit for marketing sites, editorial publishing, reusable page components, localization, and modern JavaScript frameworks. | $10/mo per repository (Starter plan) | **Free forever**: 1 user seat, 1 repository, 2 locales, 100,000 API calls/mo |
+| **Sanity** | Structured-content platform with real-time collaboration, highly customizable content modeling, APIs, Portable Text, and a developer-centric Studio. Strong fit for complex publishing applications and custom editorial experiences. | $15/seat/mo (Growth plan) | **Free forever**: 20 user seats, unlimited projects, 2 datasets, 10,000 documents/dataset, 1M API requests/mo, 100 GB storage & bandwidth/mo |
+| **Hygraph** | GraphQL-native headless CMS supporting structured content, content federation, localization, editorial workflows, and omnichannel publishing. Particularly useful when content needs to combine multiple external sources through a unified content API. | $199/mo (Growth plan) | **Free forever (Hobby)**: 3 user seats, 1,000 entries/records, 10 components, 2 locales, 500,000 API calls/mo, 50 MB max upload size |
+| **ButterCMS** | Hosted headless CMS emphasizing rapid integration, blogging, marketing content, page management, and publishing APIs. Designed to reduce CMS infrastructure requirements for development teams. | $71/mo (Micro plan billed annually) | **Free forever**: Unlimited users, 5 pages, 50 blog posts, 50 collections, 500 assets, 50,000 API calls/mo, 100 GB bandwidth + 14-day free trial |
+| **Strapi Cloud** | Hosted version of the Strapi ecosystem. Provides managed infrastructure while retaining the developer-oriented Strapi content modeling and API approach. | $15/mo (Essential plan) | **Free forever**: Hobby tier for MVPs/evaluations (or self-hosted open-source Community Edition) |
+| **DatoCMS** | API-first headless CMS focused on structured content, editorial workflows, media, localization, and high-performance publishing. | €149/mo (Professional plan billed annually) | **Free forever**: 2 editors, 300 records, 100,000 CDA API calls/mo, 25,000 CMA API calls/mo, 10 GB bandwidth/mo |
+| **Kontent.ai** | Enterprise headless CMS focused on structured content, content operations, collaboration, localization, and omnichannel publishing. | ~$1,249/mo (Scale plan estimate) / Custom quote | **Free forever Developer Plan**: 1 user, 2 languages, 200,000 API calls/mo, 2 GB asset storage, 10 GB bandwidth/mo + 30-day free trial |
 
 ### Digital Publishing & Editorial Platforms
 
-* **Ghost(Pro)**
-
-  * Managed publishing platform based on the Ghost open-source publishing system.
-  * Particularly focused on publications, newsletters, memberships, subscriptions, creators, and independent media.
-
-* **Substack**
-
-  * Hosted publishing and newsletter platform supporting subscription-based editorial businesses and independent publishers.
-
-* **Beehiiv**
-
-  * Newsletter and publication platform focused on audience growth, publishing, monetization, analytics, and newsletter operations.
-
-* **Webflow CMS**
-
-  * Hosted visual website and content-management platform combining design, CMS, publishing, and hosting.
-
-* **HubSpot Content Hub**
-
-  * Enterprise content platform combining CMS, marketing automation, personalization, analytics, and content operations.
-
-* **Adobe Experience Manager**
-
-  * Enterprise content management and digital experience platform supporting web content, assets, personalization, and large-scale publishing operations.
-
-* **Sitecore**
-
-  * Enterprise digital experience platform combining content management, personalization, analytics, commerce, and omnichannel publishing.
-
-* **Optimizely CMS**
-
-  * Enterprise CMS and digital experience platform supporting content management, experimentation, personalization, and publishing workflows.
+| Product | Description | Starting Price | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **Ghost(Pro)** | Managed publishing platform based on the Ghost open-source publishing system. Particularly focused on publications, newsletters, memberships, subscriptions, creators, and independent media. | $15/mo (Starter plan billed annually) | **Free trial**: 14-day full-featured free trial (no credit card required; no permanent hosted free tier) |
+| **Substack** | Hosted publishing and newsletter platform supporting subscription-based editorial businesses and independent publishers. | Free (10% cut on paid subscription revenue only) | **Free forever**: Unlimited subscribers, unlimited newsletter email sends, web publishing, audience growth tools |
+| **Beehiiv** | Newsletter and publication platform focused on audience growth, publishing, monetization, analytics, and newsletter operations. | $43/mo (Scale plan billed annually) | **Free forever (Launch plan)**: Up to 2,500 subscribers, unlimited email sends, custom domain web publication |
+| **Webflow CMS** | Hosted visual website and content-management platform combining design, CMS, publishing, and hosting. | $25/mo (Premium Site plan billed annually) | **Free forever (Starter plan)**: 2 static pages, 50 CMS items, 20 collections, 1 GB bandwidth, `webflow.io` subdomain |
+| **HubSpot Content Hub** | Enterprise content platform combining CMS, marketing automation, personalization, analytics, and content operations. | $10/seat/mo (Starter plan) | **Free forever**: 2 users, 1,000 contacts, 2,000 marketing emails/mo, basic CMS pages with HubSpot branding + 14-day trial |
+| **Adobe Experience Manager** | Enterprise content management and digital experience platform supporting web content, assets, personalization, and large-scale publishing operations. | ~$8,333/mo (approx. $100,000+/yr custom quote) | No free tier or trial (sales-assisted demo only) |
+| **Sitecore** | Enterprise digital experience platform combining content management, personalization, analytics, commerce, and omnichannel publishing. | ~$4,166/mo (approx. $50,000+/yr custom quote) | No standard platform free trial (limited trial for Sitecore Connect module / sales POC only) |
+| **Optimizely CMS** | Enterprise CMS and digital experience platform supporting content management, experimentation, personalization, and publishing workflows. | ~$2,500/mo (approx. $30,000+/yr custom quote) | No standard CMS free trial (Optimizely Rollouts free tier / sales POC demo only) |
 
 ### Commerce & Product Publishing
 
-* **Builder.io**
-
-  * Visual headless CMS and composable experience platform for marketers and developers.
-  * Strong emphasis on visual page building, experimentation, personalization, and component-driven publishing.
-
-* **Contentful**
-
-  * Frequently used for structured product content and composable commerce architectures.
-
-* **Sanity**
-
-  * Frequently deployed for product catalogs, editorial content, commerce experiences, and structured publishing.
-
-* **Storyblok**
-
-  * Strong fit for commerce and marketing teams requiring visual content composition.
-
-* **Hygraph**
-
-  * Particularly useful for content federation and product/content aggregation.
+| Product | Description | Starting Price | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **Builder.io** | Visual headless CMS and composable experience platform for marketers and developers. Strong emphasis on visual page building, experimentation, personalization, and component-driven publishing. | $24/user/mo (Fusion Pro) / $39/user/mo (Publish Pro) | **Free forever**: 5 users per space, 75 monthly AI Agent credits (max 25/day), visual editor & basic integrations |
+| **Contentful** | Frequently used for structured product content and composable commerce architectures. | $300/mo (Team plan) | **Free forever**: 1 space, 10 users, 25 content models, 2 locales, 100,000 API calls/mo, 50 GB bandwidth/mo |
+| **Sanity** | Frequently deployed for product catalogs, editorial content, commerce experiences, and structured publishing. | $15/seat/mo (Growth plan) | **Free forever**: 20 user seats, unlimited projects, 2 datasets, 10,000 documents/dataset, 1M API requests/mo, 100 GB storage & bandwidth/mo |
+| **Storyblok** | Strong fit for commerce and marketing teams requiring visual content composition. | $99/mo per space (Growth plan) | **Free forever (Starter)**: 1 space, 1 user seat, 3 publishes/day limit, 1,000,000 API requests/mo, unlimited content entries |
+| **Hygraph** | Particularly useful for content federation and product/content aggregation. | $199/mo (Growth plan) | **Free forever (Hobby)**: 3 user seats, 1,000 entries/records, 10 components, 2 locales, 500,000 API calls/mo, 50 MB max upload size |
 
 ## Open-Source GitHub Projects
 
